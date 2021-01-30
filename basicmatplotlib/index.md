@@ -6,3 +6,6 @@ description: This is a page for basic matplotlib graphing techniques
 Here are the basic matplotlib graphing techniques I learned in my CTBA class. Note: in these files we use matplotlib.pyplot and pandas packages.
 - [Basic Graphing (html)](BasicGraphAssignment.html)
 - [Basic Graphing (ipynb)](BasicGraphAssignment.ipynb)
+
+A fun fact about pandas here:
+- [Pandas (repository)](https://github.com/githubmicah/pandas)

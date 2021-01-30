@@ -8,9 +8,9 @@ description: GitHub Portfolio Assignment
 **Micah Catlett**
 
 
-The is the Basic Graphing Assignment I completed during Module 2:
+This is a basic set up for getting a graph started in Jupyter using matplotlib and pandas:
 
-- [Basic Graphing Assignment M2](/basicmatplotlib/index.md)
+- [Basic Graphing](/basicmatplotlib/index.md)
 
 
 ***This is an image courtesy of W&M***

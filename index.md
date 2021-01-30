@@ -1,6 +1,5 @@
 ---
-title: Micah Catlett
-description: this is for a class assignment
+
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.

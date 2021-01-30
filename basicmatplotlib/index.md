@@ -7,5 +7,5 @@ Here are the basic matplotlib graphing techniques I learned in my CTBA class. No
 - [Basic Graphing (html)](BasicGraphAssignment.html)
 - [Basic Graphing (ipynb)](BasicGraphAssignment.ipynb)
 
-A fun fact about pandas here:
+A repository focused on pandas here:
 - [Pandas (repository)](https://github.com/githubmicah/pandas)

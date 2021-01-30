@@ -1,0 +1,8 @@
+'''
+title: Basic Matplotlib Graphing
+description: This is a page for basic matplotlib graphing techniques
+'''
+
+Here are the basic matplotlib graphing techniques I learned in my CTBA class. Note: in these files we use matplotlib.pyplot and pandas packages.
+- 
+-

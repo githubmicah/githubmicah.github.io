@@ -10,3 +10,6 @@ Here are the basic matplotlib graphing techniques I learned in my CTBA class. No
 
 A repository focused on pandas here (check the index):
 - [Pandas (repository)](https://github.com/githubmicah/pandas)
+
+Back to main page:
+- [Main Page](https://githubmicah.github.io/)

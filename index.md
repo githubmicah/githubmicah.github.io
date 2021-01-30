@@ -10,4 +10,4 @@ description: GitHub Portfolio Assignment
 
 The is the Basic Graphing Assignment I completed during Module 2:
 
-- [Basic Graphing Assignment M2](/matplotlib/index.md)
+- [Basic Graphing Assignment M2](/basicmatplotlib/index.md)

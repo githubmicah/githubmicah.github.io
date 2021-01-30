@@ -2,6 +2,7 @@
 title: Basic Matplotlib Graphing
 description: This is a page for basic matplotlib graphing techniques
 ---
+by: Micah Catlett
 
 Here are the basic matplotlib graphing techniques I learned in my CTBA class. Note: in these files we use matplotlib.pyplot and pandas packages.
 - [Basic Graphing (html)](BasicGraphAssignment.html)
